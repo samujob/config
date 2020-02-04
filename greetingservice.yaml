@@ -7,5 +7,5 @@ spring:
   sleuth:
     sampler:
       probability: 1.0
-cognitiveserviceKey: aae328a95d474d8d8dd1b2334c1afdda
+cognitiveserviceKey: ad2d2255bf96499b8aae54f705e2d4bc
 cognitiveserviceURL: https://api.cognitive.microsofttranslator.com/translate?api-version=3.0&to=
